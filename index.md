@@ -31,9 +31,9 @@ Graduate tutor:Professor Nian Feng . Li,The dean of Computer school of Changchun
 #### The CE images aided diagnosis based on deep learning | Computer school of Changchun University
 2019.7-so far
 
-##### Small bowel tumor segmentation based on Transfer Learning
+Small bowel tumor segmentation based on Transfer Learning
 
-##### CE images pre labeling system based on active learning
+CE images pre labeling system based on active learning
 
 For more details see [GitHub blue-xuhu](https://github.com/blue-xuhu).
 
