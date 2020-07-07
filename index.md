@@ -39,15 +39,11 @@ For more details see [GitHub blue-xuhu](https://github.com/blue-xuhu).
 
 ### Special Skills
 #### Professional Skills:
-  Python
-  C++
-  Pytorch
-  PyQt
+Python,C++,Pytorch,PyQt
   
 #### Language Proficiency:
-  Chinese
-  English
-  Korean (elementary)
+Chinese,English
+
 ### Awards and Certificates
 
 Certificates:Computer certificate II,CET-4 certificate
